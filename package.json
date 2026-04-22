@@ -2,7 +2,7 @@
   "name": "vibetype",
   "displayName": "vbtdev",
   "description": "vbtdev",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "vbtdev",
   "license": "MIT",
   "engines": {
@@ -38,6 +38,6 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/sb-3455261/vibetype-ext-front"
   }
 }
